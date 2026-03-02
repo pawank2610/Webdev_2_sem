@@ -1,2 +1,4 @@
 # Webdev_2_sem
-all assignment of webdev semester 2
+git add .
+git commit -m "daily update"
+git push
